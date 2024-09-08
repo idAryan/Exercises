@@ -1,0 +1,7 @@
+{
+    "markdown.preview.fontSize": 100,
+    "markdown-mermaid.languages": [
+
+        "mermaid"
+    ]
+}
